@@ -1,12 +1,12 @@
 
 # MicroServicesNestJs
 
-# cd main
+## `cd main`
 ### `npm i`
-### npm run listen:dev
+### `npm run listen:dev`
 
 
-# cd admin
+## `cd admin`
 ### `npm i`
 ### `npm run start:dev`
 

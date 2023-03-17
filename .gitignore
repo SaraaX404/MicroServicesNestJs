@@ -1,0 +1,6 @@
+admin/node_modules
+admin/.env
+
+main/node_modules
+main/.env
+
